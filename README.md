@@ -35,12 +35,6 @@ The main objective of this project is to convert raw HR data into meaningful bus
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Screenshot](dashboard.png)
-
----
-
 ## Skills Gained
 - Data Cleaning
 - Data Transformation
