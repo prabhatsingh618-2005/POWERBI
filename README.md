@@ -57,6 +57,6 @@ The main objective of this project is to convert raw HR data into meaningful bus
 I am currently learning Data Analytics and building projects using Power BI, Excel, SQL, and Python.
 
 Connect with me on LinkedIn:
-[Your LinkedIn Profile Link]
+[www.linkedin.com/in/sarkar-prabhat-singh-478b27302]
 
 # POWERBI
